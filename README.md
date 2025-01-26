@@ -3,6 +3,11 @@
 ## Project Description
 This project aims to analyze the sales data of Apple Inc. in order to understand the trends, patterns, and key insights regarding the company's product sales across various regions and states. The dataset includes information on the sales volumes of Apple products, specifically the iPhone, iPad, Mac, Wearables, and Services Revenue, broken down by state and region. The primary objective of this analysis is to identify which Apple product each state or region purchases the most, as well as to uncover any noteworthy patterns in consumer behavior and regional demand.
 
+## How to use
+- Clone the repository to your local machine.
+- Open the 'notebook.ipynb' notebook in to visualize the data processing and outlier detection.
+- Open the 'apple_sales_dashboard.pbix' file in Power BI to view the interactive dashboard.
+
 ## Dataset
 - Region: The geographic area where sales were recorded, including North America, Europe, Greater China, Rest of Asia, and Rest of the World.
 - iPhone Sales: Unit sales of iPhones, measured in millions.
